@@ -1,0 +1,38 @@
+header
+    logo
+    nav
+        home
+        faq
+        about
+    headline
+    image
+main content
+    newsletter signup
+        content
+            title
+            paragraph
+        form
+            title
+            input
+            button
+    features
+        title  
+        image 
+        items
+            icon
+            paragraph
+    testimonial
+        title
+        subsection
+            image   
+            title
+            paragraph        
+footer
+    contact
+        title
+        phone
+        email
+    media
+        title
+        icons
+    copyright
